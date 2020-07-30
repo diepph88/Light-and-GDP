@@ -6,4 +6,4 @@ Identify the factors that determine the difference between official GDP and nigh
 
 # 2. Conceptual framework
 
-- Define difference by $u$ in $ln(GDP)_{ic}$ = \alpha + \beta ln(light)_{ic}$ + u_ic$
+- Define difference by u in ln(GDP)_{ic} = \alpha + \beta ln(light)_{ic} + u_ic
