@@ -1,0 +1,22 @@
+#Attending and presenting the whole idea of project 
+Overall idea: other papers just focus on individual variables, this project will focus on high dimensions
+--> better understanding what drive the differences between light and GDP at subnational level
+--> the end goal: statistical learning exercise
+##Weijia: 
+- From theory (three GDP methods) different methods yield the same GDP number, we do not know whether they yield the same light intensity?
+In other words, suppose you have a country has three measures, they collect data about GDP using all three measures --> then discover they have appropriate light equivalent for each of method 
+##Sascha:
+- light and GDP, they both have issues. 
+- In the more developed countries, they used all three methods in any cases and try to square them and help to develop a method to align them --> report only 1 number
+- Go to local statistical agent and see how they collect data to calculate GDP (Vitoria - Melbourne) 
+## Paul
+- We are basically regressing two noises measure of society welfare. It is evident that neither GDP nor Light is good measures of welfare --> 
+--> this is a statistical problem --> regress noise on noise --> do not know how to address this problem
+From literature: some authors said: NYL is good for middle income countries --> dont use it for the poor countries, dont use it for the top countries. But this is just a country aggregate
+ the first thing of this project: we use NTL data at subnational level as a subsitute for the GDP 
+People may argue that: why dont you just replicate whate they did at subnational level ? we look at the differences depend on level of development
+-> Our approach at subnational level is much more complicated. At country level, we look at the differences depend on level of development 
+- the most obvious one: you shoud look at economic compositions at the level -> and see what the data explain the difference
+--> better understanding what drive the differences between light and GDP at subnational level. (So far, the literature said, the level of development)
+
+### Diep's task in the couple of month : get into the rich of understanding what in the GDP number 
