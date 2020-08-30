@@ -12,9 +12,13 @@ library(tidyverse)
 ## Part A
 
 *1. Provide a critical evaluation of Figure 1.*
-The Figure 1 is a clear case of chart junk (Picture within the chart)m bad data(the Y-axis) and low data density
+
+The Figure 1 is a clear case of chart junk (Picture within the chart), bad data(the Y-axis) and low data density
+
 *2. Provide a critical evaluation of Figure 2.*
-The Figure 2 suffers from bad perception due to 3d rendering and low data density.
+
+The Figure 2 suffers from bad perception due to 3d rendering and low data density
+
 *3. Provide a critical evaluation of Figure 3.*
 
 Figure 3 suffers from chart junk with the dark grey background. 
